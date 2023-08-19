@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="title">Title</string>
+    <string name="status">status</string>
+    <string name="note">note</string>
+    <string name="date">date</string>
+    <string name="doing">Doing</string>
+    <string name="pending">pending</string>
+    <string name="completed">completed</string>
+
+</resources>
